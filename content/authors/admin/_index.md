@@ -21,7 +21,7 @@ role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: SYSU
     url: https://www.example.com/
 
 # Social network links
